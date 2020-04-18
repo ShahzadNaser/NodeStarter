@@ -98,6 +98,22 @@ dist
 .fusebox/
 
 # DynamoDB Local files
+
+# Jetbrains IDE
+.idea/
+.idea/vcs.xml
+.vscode/
+package-lock.json
+
+
+#Ecosystem
+ecosystem/
+
+#Storage
+storage/
+
+#BACKUP
+backup_meta/
 .dynamodb/
 
 # TernJS port file
